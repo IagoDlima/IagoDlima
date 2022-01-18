@@ -5,6 +5,7 @@
 
 ![IagoDlima GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoDlima&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoDlima)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que uso e estudo atualmente
 
 <div style="display: inline_block"><br>
