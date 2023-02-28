@@ -16,4 +16,4 @@
 
 
 </div><br>
-Sou apaixonado por tecnologia e estou iniciando na programação, bem entusiasmado com o que estou apredendo e colocando em prática.
+
